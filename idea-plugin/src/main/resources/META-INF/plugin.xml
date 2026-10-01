@@ -3,7 +3,7 @@
     <version>1.0.0</version>
     <id>com.yovinchen.quotabar</id>
     <name>Quota Bar</name>
-    <vendor email="yovinchen@example.com" url="https://github.com/yovinchen">yovinchen</vendor>
+    <vendor email="yovinchen@example.com" url="https://github.com/Owlbay">Owlbay</vendor>
 
     <description><![CDATA[
     Monitor API quota usage for various platforms (NewAPI, PackyAPI, PackyCode).

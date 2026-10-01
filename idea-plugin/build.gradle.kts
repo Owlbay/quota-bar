@@ -38,8 +38,8 @@ intellijPlatform {
         }
 
         vendor {
-            name = "yovinchen"
-            url = "https://github.com/yovinchen"
+            name = "Owlbay"
+            url = "https://github.com/Owlbay"
         }
     }
 

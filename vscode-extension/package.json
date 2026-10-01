@@ -8,7 +8,7 @@
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/yovinchen/quota-bar"
+        "url": "https://github.com/Owlbay/quota-bar"
     },
     "engines": {
         "vscode": "^1.104.0"
